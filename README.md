@@ -7,9 +7,8 @@
 >>mudgame : https://github.com/Van0614/mudgame.git
 
 * React/SASM
-> SDP Tech 팀에서 개발한 Front End 개발 코드 링크는 아래와 같습니다. 해당 부분에서 제가 개발한 부분은 sasm repository입니다.
+> SDP Tech 팀에서 Front End 개발을 하며 제가 맡은 부분은 sasm repository에 나타나 있습니다. 
 >>sasm : https://github.com/Van0614/sasm.git
->>SASM_FE : https://github.com/Van0614/SASM_FE.git
 
 * SQL/DataManagement
 > 팀원 5명과 함께 수업 시간에 진행한 프로젝트 파일을 제출합니다. mySQL과 python을 사용했습니다. Project 1에서는 Requirement 3을 담당하였고, Project 2에서는 Requirement 1과 2를 담당했습니다. 

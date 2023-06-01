@@ -1,0 +1,537 @@
+id,Name,Aired,Premiered,Source,studio_id
+1,Cowboy Bebop,"Apr 3, 1998 to Apr 24, 1999",Spring 1998,Original,0
+6,Trigun,"Apr 1, 1998 to Sep 30, 1998",Spring 1998,Manga,1
+7,Witch Hunter Robin,"Jul 2, 2002 to Dec 24, 2002",Summer 2002,Original,0
+15,Eyeshield 21,"Apr 6, 2005 to Mar 19, 2008",Spring 2005,Manga,2
+16,Hachimitsu to Clover,"Apr 15, 2005 to Sep 27, 2005",Spring 2005,Manga,3
+18,Initial D Fourth Stage,"Apr 17, 2004 to Feb 18, 2006",Spring 2004,Manga,4
+19,Monster,"Apr 7, 2004 to Sep 28, 2005",Spring 2004,Manga,1
+20,Naruto,"Oct 3, 2002 to Feb 8, 2007",Fall 2002,Manga,5
+22,Tennis no Ouji-sama,"Oct 10, 2001 to Mar 23, 2005",Fall 2001,Manga,6
+24,School Rumble,"Oct 5, 2004 to Mar 29, 2005",Fall 2004,Manga,7
+25,Sunabouzu,"Oct 6, 2004 to Mar 30, 2005",Fall 2004,Manga,8
+26,Texhnolyze,"Apr 17, 2003 to Sep 25, 2003",Spring 2003,Original,1
+28,Yakitate!! Japan,"Oct 12, 2004 to Mar 14, 2006",Fall 2004,Manga,0
+29,Zipang,"Oct 8, 2004 to Apr 1, 2005",Fall 2004,Manga,9
+30,Neon Genesis Evangelion,"Oct 4, 1995 to Mar 27, 1996",Fall 1995,Original,10
+33,Kenpuu Denki Berserk,"Oct 8, 1997 to Apr 1, 1998",Fall 1997,Manga,12
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,"Jan 10, 1996 to Sep 8, 1998",Winter 1996,Manga,2
+48,.hack//Sign,"Apr 4, 2002 to Sep 26, 2002",Spring 2002,Original,13
+50,Aa! Megami-sama! (TV),"Jan 7, 2005 to Jul 8, 2005",Winter 2005,Manga,14
+52,Kidou Tenshi Angelic Layer,"Apr 1, 2001 to Sep 23, 2001",Spring 2001,Manga,15
+53,Ai Yori Aoshi,"Apr 11, 2002 to Sep 26, 2002",Spring 2002,Manga,3
+55,Arc the Lad,"Apr 5, 1999 to Sep 11, 1999",Spring 1999,Game,13
+56,Avenger,"Oct 2, 2003 to Dec 25, 2003",Fall 2003,Original,13
+57,Beck,"Oct 7, 2004 to Mar 31, 2005",Fall 2004,Manga,1
+58,Blue Gender,"Oct 8, 1999 to Mar 31, 2000",Fall 1999,Original,14
+59,Chobits,"Apr 3, 2002 to Sep 25, 2002",Spring 2002,Manga,1
+60,Chrno Crusade,"Nov 25, 2003 to Jun 10, 2004",Fall 2003,Manga,8
+61,D.N.Angel,"Apr 3, 2003 to Sep 25, 2003",Spring 2003,Manga,16
+63,DearS,"Jul 11, 2004 to Sep 26, 2004",Summer 2004,Manga,17
+64,Rozen Maiden,"Oct 8, 2004 to Dec 24, 2004",Fall 2004,Manga,18
+65,Rozen Maiden: Traumend,"Oct 21, 2005 to Jan 27, 2006",Fall 2005,Manga,18
+66,Azumanga Daioh,"Apr 9, 2002 to Oct 1, 2002",Spring 2002,4-koma manga,3
+67,Basilisk: Kouga Ninpou Chou,"Apr 13, 2005 to Sep 21, 2005",Spring 2005,Manga,8
+68,Black Cat (TV),"Oct 7, 2005 to Mar 31, 2006",Fall 2005,Manga,8
+69,Cluster Edge,"Oct 5, 2005 to Mar 29, 2006",Fall 2005,Original,0
+71,Full Metal Panic!,"Jan 8, 2002 to Jun 18, 2002",Winter 2002,Light novel,8
+72,Full Metal Panic? Fumoffu,"Aug 26, 2003 to Oct 18, 2003",Summer 2003,Light novel,19
+73,Full Metal Panic! The Second Raid,"Jul 14, 2005 to Oct 20, 2005",Summer 2005,Light novel,19
+74,Gakuen Alice,"Oct 30, 2004 to May 14, 2005",Fall 2004,Manga,20
+75,Soukyuu no Fafner: Dead Aggressor,"Jul 5, 2004 to Dec 27, 2004",Summer 2004,Original,16
+76,Mahou Shoujo Lyrical Nanoha,"Oct 3, 2004 to Dec 26, 2004",Fall 2004,Original,21
+77,Mahou Shoujo Lyrical Nanoha A's,"Oct 2, 2005 to Dec 25, 2005",Fall 2005,Original,21
+79,Shuffle!,"Jul 8, 2005 to Jan 6, 2006",Summer 2005,Visual novel,22
+80,Mobile Suit Gundam,"Apr 7, 1979 to Jan 26, 1980",Spring 1979,Original,0
+85,Mobile Suit Zeta Gundam,"Mar 2, 1985 to Feb 22, 1986",Spring 1985,Original,0
+86,Mobile Suit Gundam ZZ,"Mar 1, 1986 to Jan 31, 1987",Spring 1986,Original,0
+89,Mobile Suit Victory Gundam,"Apr 2, 1993 to Mar 25, 1994",Spring 1993,Original,0
+90,Mobile Suit Gundam Wing,"Apr 7, 1995 to Mar 29, 1996",Spring 1995,Original,0
+92,After War Gundam X,"Apr 5, 1996 to Dec 28, 1996",Spring 1996,Original,0
+93,Mobile Suit Gundam SEED,"Oct 5, 2002 to Sep 27, 2003",Fall 2002,Original,0
+94,Mobile Suit Gundam SEED Destiny,"Oct 9, 2004 to Oct 1, 2005",Fall 2004,Original,0
+95,Turn A Gundam,"Apr 9, 1999 to Apr 14, 2000",Spring 1999,Original,0
+96,Mobile Fighter G Gundam,"Apr 1, 1994 to Mar 31, 1995",Spring 1994,Original,0
+97,Last Exile,"Apr 8, 2003 to Sep 30, 2003",Spring 2003,Original,8
+98,Mai-HiME,"Sep 30, 2004 to Mar 31, 2005",Fall 2004,Original,0
+99,Mai-Otome,"Oct 7, 2005 to Mar 31, 2006",Fall 2005,Original,0
+100,Shin Shirayuki-hime Densetsu Pretear,"Apr 4, 2001 to Jun 27, 2001",Spring 2001,Manga,24
+101,Air,"Jan 7, 2005 to Mar 25, 2005",Winter 2005,Visual novel,19
+104,Ayashi no Ceres,"Apr 20, 2000 to Sep 28, 2000",Spring 2000,Manga,5
+107,Ou Dorobou Jing,"May 15, 2002 to Aug 14, 2002",Spring 2002,Manga,9
+109,Bakuretsu Tenshi,"Apr 7, 2004 to Sep 15, 2004",Spring 2004,Original,8
+111,Corrector Yui,"Apr 9, 1999 to Oct 20, 2000",Spring 1999,Original,25
+113,Uchuu no Stellvia,"Apr 3, 2003 to Sep 25, 2003",Spring 2003,Original,16
+114,Sakigake!! Cromartie Koukou,"Oct 3, 2003 to Mar 26, 2004",Fall 2003,Manga,26
+115,El Hazard: The Alternative World,"Jan 8, 1998 to Mar 26, 1998",Winter 1998,Original,14
+116,El Hazard: The Wanderers,"Oct 6, 1995 to Mar 29, 1996",Fall 1995,Original,14
+120,Fruits Basket,"Jul 5, 2001 to Dec 27, 2001",Summer 2001,Manga,9
+121,Fullmetal Alchemist,"Oct 4, 2003 to Oct 2, 2004",Fall 2003,Manga,15
+122,Full Moon wo Sagashite,"Apr 6, 2002 to Mar 29, 2003",Spring 2002,Manga,9
+123,Fushigi Yuugi,"Apr 6, 1995 to Mar 28, 1996",Spring 1995,Manga,5
+127,Gate Keepers,"Apr 3, 2000 to Sep 18, 2000",Spring 2000,Game,8
+129,Gensoumaden Saiyuuki,"Apr 4, 2000 to Mar 27, 2001",Spring 2000,Manga,5
+132,GetBackers,"Oct 5, 2002 to Sep 20, 2003",Fall 2002,Manga,9
+133,Green Green,"Jul 12, 2003 to Sep 27, 2003",Summer 2003,Visual novel,27
+134,Gunslinger Girl,"Oct 9, 2003 to Feb 19, 2004",Fall 2003,Manga,1
+135,Hikaru no Go,"Oct 10, 2001 to Mar 26, 2003",Fall 2001,Manga,5
+136,Hunter x Hunter,"Oct 16, 1999 to Mar 31, 2001",Fall 1999,Manga,25
+141,Jinki:Extend,"Jan 6, 2005 to Mar 24, 2005",Winter 2005,Manga,28
+143,Kannazuki no Miko,"Oct 2, 2004 to Dec 18, 2004",Fall 2004,Manga,29
+144,Kanon,"Jan 31, 2002 to Mar 28, 2002",Winter 2002,Visual novel,30
+145,Kareshi Kanojo no Jijou,"Oct 2, 1998 to Mar 26, 1999",Fall 1998,Manga,10
+146,Kono Minikuku mo Utsukushii Sekai,"Apr 2, 2004 to Jun 18, 2004",Spring 2004,Original,10
+147,Kimi ga Nozomu Eien,"Oct 5, 2003 to Jan 4, 2004",Fall 2003,Visual novel,32
+149,Loveless,"Apr 7, 2005 to Jun 30, 2005",Spring 2005,Manga,3
+150,Blood+,"Oct 8, 2005 to Sep 23, 2006",Fall 2005,Original,26
+152,Solty Rei,"Oct 7, 2005 to Mar 31, 2006",Fall 2005,Original,8
+153,Juuni Kokuki,"Apr 9, 2002 to Aug 30, 2003",Spring 2002,Novel,5
+154,Shaman King,"Jul 4, 2001 to Sep 25, 2002",Summer 2001,Manga,16
+156,X,"Oct 3, 2001 to Mar 27, 2002",Fall 2001,Manga,1
+157,Mahou Sensei Negima!,"Jan 6, 2005 to Jun 30, 2005",Winter 2005,Manga,16
+158,Maria-sama ga Miteru,"Jan 8, 2004 to Apr 1, 2004",Winter 2004,Light novel,9
+159,Boukyaku no Senritsu,"Apr 7, 2004 to Sep 22, 2004",Spring 2004,Manga,10
+160,Ima Soko ni Iru Boku,"Oct 14, 1999 to Jan 20, 2000",Fall 1999,Original,14
+161,Peace Maker Kurogane,"Oct 8, 2003 to Mar 24, 2004",Fall 2003,Manga,8
+162,Pita Ten,"Apr 7, 2002 to Sep 29, 2002",Spring 2002,Manga,1
+163,Power Stone,"Apr 3, 1999 to Sep 25, 1999",Spring 1999,Game,5
+165,RahXephon,"Jan 21, 2002 to Sep 11, 2002",Winter 2002,Original,15
+166,Samurai 7,"Jun 12, 2004 to Dec 25, 2004",Summer 2004,Other,8
+167,Scrapped Princess,"Apr 8, 2003 to Oct 7, 2003",Spring 2003,Light novel,15
+168,s.CRY.ed,"Jul 4, 2001 to Dec 26, 2001",Summer 2001,Original,0
+169,Shingetsutan Tsukihime,"Oct 10, 2003 to Dec 26, 2003",Fall 2003,Visual novel,3
+170,Slam Dunk,"Oct 16, 1993 to Mar 23, 1996",Fall 1993,Manga,30
+173,Tactics,"Oct 6, 2004 to Mar 30, 2005",Fall 2004,Manga,9
+174,Tenjou Tenge,"Apr 2, 2004 to Sep 17, 2004",Spring 2004,Manga,1
+175,Tokyo Underground,"Apr 2, 2002 to Sep 24, 2002",Spring 2002,Manga,5
+177,Tsubasa Chronicle,"Apr 9, 2005 to Oct 15, 2005",Spring 2005,Manga,13
+178,Ultra Maniac,"May 20, 2003 to Nov 11, 2003",Spring 2003,Manga,33
+180,Vandread,"Oct 3, 2000 to Dec 19, 2000",Fall 2000,Original,8
+181,Vandread: The Second Stage,"Oct 5, 2001 to Jan 18, 2002",Fall 2001,Original,8
+182,Tenkuu no Escaflowne,"Apr 2, 1996 to Sep 24, 1996",Spring 1996,Original,0
+184,Xenosaga The Animation,"Jan 6, 2005 to Mar 24, 2005",Winter 2005,Game,30
+185,Initial D First Stage,"Apr 19, 1998 to Dec 6, 1998",Spring 1998,Manga,2
+186,Initial D Second Stage,"Oct 15, 1999 to Jan 21, 2000",Fall 1999,Manga,34
+189,Love Hina,"Apr 19, 2000 to Sep 27, 2000",Spring 2000,Manga,16
+193,Maburaho,"Oct 14, 2003 to Apr 6, 2004",Fall 2003,Light novel,3
+195,Onegai Teacher,"Jan 10, 2002 to Mar 28, 2002",Winter 2002,Original,17
+196,Onegai Twins,"Jul 15, 2003 to Oct 14, 2003",Summer 2003,Original,17
+198,Speed Grapher,"Apr 8, 2005 to Sep 30, 2005",Spring 2005,Original,8
+202,Wolf's Rain,"Jan 7, 2003 to Jul 29, 2003",Winter 2003,Original,15
+205,Samurai Champloo,"May 20, 2004 to Mar 19, 2005",Spring 2004,Original,35
+206,Lodoss-tou Senki: Eiyuu Kishi Den,"Apr 1, 1998 to Sep 30, 1998",Spring 1998,Novel,14
+209,R.O.D: The TV,"Sep 1, 2003 to Mar 16, 2004",Fall 2003,Light novel,3
+210,Ranma 1/2,"Apr 15, 1989 to Sep 25, 1992",Spring 1989,Manga,9
+218,Kidou Senkan Nadesico,"Oct 1, 1996 to Mar 25, 1997",Fall 1996,Original,16
+222,Mezzo DSA,"Jan 4, 2004 to Mar 28, 2004",Winter 2004,Original,36
+223,Dragon Ball,"Feb 26, 1986 to Apr 12, 1989",Winter 1986,Manga,30
+225,Dragon Ball GT,"Feb 7, 1996 to Nov 19, 1997",Winter 1996,Manga,30
+226,Elfen Lied,"Jul 25, 2004 to Oct 17, 2004",Summer 2004,Manga,36
+228,Jigoku Shoujo,"Oct 5, 2005 to Apr 5, 2006",Fall 2005,Original,9
+229,Ninin ga Shinobuden,"Jul 10, 2004 to Sep 25, 2004",Summer 2004,Manga,37
+230,Air Master,"Apr 2, 2003 to Oct 1, 2003",Spring 2003,Manga,30
+231,Asagiri no Miko,"Jul 4, 2002 to Dec 26, 2002",Summer 2002,Manga,38
+232,Cardcaptor Sakura,"Apr 7, 1998 to Mar 21, 2000",Spring 1998,Manga,1
+234,Dan Doh!!,"Apr 3, 2004 to Sep 25, 2004",Spring 2004,Manga,40
+236,E's Otherwise,"Apr 1, 2003 to Sep 23, 2003",Spring 2003,Manga,5
+237,Koukyoushihen Eureka Seven,"Apr 17, 2005 to Apr 2, 2006",Spring 2005,Original,15
+238,Rekka no Honoo,"Jul 19, 1997 to Jul 10, 1998",Summer 1997,Manga,5
+239,Gankutsuou,"Oct 6, 2004 to Mar 30, 2005",Fall 2004,Novel,8
+240,Genshiken,"Oct 10, 2004 to Dec 26, 2004",Fall 2004,Manga,41
+241,Girls Bravo: First Season,"Jul 5, 2004 to Sep 27, 2004",Summer 2004,Manga,42
+242,Gokusen,"Jan 6, 2004 to Mar 30, 2004",Winter 2004,Manga,1
+243,Gravitation,"Oct 4, 2000 to Jan 10, 2001",Fall 2000,Manga,9
+245,Great Teacher Onizuka,"Jun 30, 1999 to Sep 17, 2000",Summer 1999,Manga,5
+246,Groove Adventure Rave,"Oct 13, 2001 to Sep 28, 2002",Fall 2001,Manga,9
+249,InuYasha,"Oct 16, 2000 to Sep 13, 2004",Fall 2000,Manga,0
+250,Konjiki no Gash Bell!!,"Apr 6, 2003 to Mar 26, 2006",Spring 2003,Manga,30
+251,Kyou kara Maou!,"Apr 3, 2004 to Feb 25, 2006",Spring 2004,Light novel,9
+252,Madlax,"Apr 6, 2004 to Sep 28, 2004",Spring 2004,Original,13
+253,Jungle wa Itsumo Hare nochi Guu,"Apr 3, 2001 to Sep 25, 2001",Spring 2001,Manga,43
+257,Ikkitousen,"Jul 30, 2003 to Oct 22, 2003",Summer 2003,Manga,3
+260,Happy Lesson (TV),"Apr 1, 2002 to Jun 30, 2002",Spring 2002,Manga,44
+263,Hajime no Ippo,"Oct 4, 2000 to Mar 27, 2002",Fall 2000,Manga,1
+266,Gunparade March: Arata Naru Kougunka,"Feb 6, 2003 to Apr 24, 2003",Winter 2003,Game,3
+267,Gungrave,"Oct 7, 2003 to Mar 30, 2004",Fall 2003,Game,1
+269,Bleach,"Oct 5, 2004 to Mar 27, 2012",Fall 2004,Manga,5
+270,Hellsing,"Oct 11, 2001 to Jan 17, 2002",Fall 2001,Manga,8
+271,Gad Guard,"Apr 16, 2003 to Sep 25, 2003",Spring 2003,Original,8
+272,Noir,"Apr 6, 2001 to Sep 28, 2001",Spring 2001,Original,13
+273,Mahoutsukai ni Taisetsu na Koto,"Jan 10, 2003 to Mar 28, 2003",Winter 2003,Manga,3
+274,Kiddy Grade,"Oct 9, 2002 to Mar 19, 2003",Fall 2002,Original,8
+275,Love Love?,"May 4, 2004 to Jun 29, 2004",Spring 2004,Original,45
+276,Mahoromatic: Automatic Maiden,"Oct 5, 2001 to Dec 28, 2001",Fall 2001,Manga,10
+277,Mahoromatic: Motto Utsukushii Mono,"Sep 26, 2002 to Jan 16, 2003",Fall 2002,Manga,10
+278,Viewtiful Joe,"Oct 2, 2004 to Sep 24, 2005",Fall 2004,Game,20
+279,Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,"Oct 4, 2003 to Dec 27, 2003",Fall 2003,Novel,47
+284,Area 88 (TV),"Jan 9, 2004 to Mar 26, 2004",Winter 2004,Manga,20
+286,B'T X,"Apr 6, 1996 to Sep 21, 1996",Spring 1996,Manga,47
+287,Grappler Baki (TV),"Jan 9, 2001 to Jun 26, 2001",Winter 2001,Manga,20
+288,Bakuten Shoot Beyblade,"Jan 8, 2001 to Dec 24, 2001",Winter 2001,Manga,1
+289,Comic Party,"Apr 2, 2001 to Jun 25, 2001",Spring 2001,Visual novel,12
+290,Seikai no Monshou,"Jan 3, 1999 to Mar 28, 1999",Winter 1999,Light novel,0
+292,Dear Boys,"Apr 7, 2003 to Sep 29, 2003",Spring 2003,Manga,4
+293,Di Gi Charat,"Nov 30, 1999 to Dec 24, 1999",Fall 1999,Original,1
+294,Divergence Eve,"Jul 2, 2003 to Sep 24, 2003",Summer 2003,Original,48
+295,Divergence Eve 2: Misaki Chronicles,"Jan 3, 2004 to Mar 27, 2004",Winter 2004,Original,48
+296,Dragon Drive,"Jul 4, 2002 to Mar 27, 2003",Summer 2002,Manga,1
+297,Grenadier: Hohoemi no Senshi,"Oct 14, 2004 to Jan 13, 2005",Fall 2004,Manga,20
+298,.hack//Tasogare no Udewa Densetsu,"Jan 9, 2003 to Mar 27, 2003",Winter 2003,Manga,13
+303,Aa! Megami-sama!: Chichaitte Koto wa Benri da ne,"Apr 6, 1998 to Mar 29, 1999",Spring 1998,4-koma manga,12
+306,Abenobashi Mahou Shoutengai,"Apr 4, 2002 to Jun 27, 2002",Spring 2002,Original,10
+318,Hand Maid May,"Jul 26, 2000 to Sep 27, 2000",Summer 2000,Original,29
+321,Najica Dengeki Sakusen,"Oct 5, 2001 to Dec 27, 2001",Fall 2001,Original,32
+322,Paradise Kiss,"Oct 14, 2005 to Dec 30, 2005",Fall 2005,Manga,1
+323,Mousou Dairinin,"Feb 3, 2004 to May 18, 2004",Winter 2004,Original,1
+324,Kidou Keisatsu Patlabor: On Television,"Oct 11, 1989 to Sep 26, 1990",Fall 1989,Original,0
+325,Peach Girl,"Jan 8, 2005 to Jun 25, 2005",Winter 2005,Manga,7
+326,Petshop of Horrors,"Mar 2, 1999 to Mar 23, 1999",Winter 1999,Manga,1
+328,Piano (TV),"Nov 11, 2002 to Jan 13, 2003",Fall 2002,Original,12
+329,Planetes,"Oct 4, 2003 to Apr 17, 2004",Fall 2003,Manga,0
+330,Midori no Hibi,"Apr 4, 2004 to Jun 27, 2004",Spring 2004,Manga,5
+334,Marmalade Boy,"Mar 13, 1994 to Sep 3, 1995",Spring 1994,Manga,30
+335,Matantei Loki Ragnarok,"Apr 5, 2003 to Sep 27, 2003",Spring 2003,Manga,9
+337,Psychic Academy,"Mar 29, 2002 to Sep 13, 2002",Spring 2002,Manga,50
+338,Versailles no Bara,"Oct 10, 1979 to Sep 3, 1980",Fall 1979,Manga,51
+339,Serial Experiments Lain,"Jul 6, 1998 to Sep 28, 1998",Summer 1998,Original,52
+340,Mutsu Enmei Ryuu Gaiden: Shura no Toki,"Apr 6, 2004 to Sep 28, 2004",Spring 2004,Manga,7
+341,Spiral: Suiri no Kizuna,"Oct 1, 2002 to Mar 25, 2003",Fall 2002,Manga,3
+342,Starship Operators,"Jan 5, 2005 to Mar 30, 2005",Winter 2005,Light novel,3
+345,Eikoku Koi Monogatari Emma,"Apr 3, 2005 to Jun 19, 2005",Spring 2005,Manga,5
+347,Wild Arms: Twilight Venom,"Oct 18, 1999 to Mar 27, 2000",Fall 1999,Game,13
+348,Binzume Yousei,"Oct 3, 2003 to Dec 26, 2003",Fall 2003,Original,16
+350,Ojamajo Doremi,"Feb 7, 1999 to Jan 30, 2000",Winter 1999,Original,30
+354,UG Ultimate Girls,"Jan 10, 2005 to Mar 28, 2005",Winter 2005,Original,27
+355,Shakugan no Shana,"Oct 6, 2005 to Mar 23, 2006",Fall 2005,Light novel,3
+356,Fate/stay night,"Jan 7, 2006 to Jun 17, 2006",Winter 2006,Visual novel,9
+360,Himiko-den,"Jan 7, 1999 to Apr 1, 1999",Winter 1999,Game,20
+369,Boogiepop wa Warawanai,"Jan 5, 2000 to Mar 22, 2000",Winter 2000,Light novel,1
+370,Burn Up Excess,"Dec 12, 1997 to Jul 1, 1998",Winter 1998,Original,53
+375,Bannou Bunka Neko-Musume (1998),"Jan 7, 1998 to Mar 25, 1998",Winter 1998,Original,33
+379,Heppoko Jikken Animation Excel Saga,"Oct 8, 1999 to Mar 31, 2000",Fall 1999,Manga,3
+383,Galaxy Angel,"Apr 8, 2001 to Sep 30, 2001",Spring 2001,Game,1
+384,Gantz,"Apr 13, 2004 to Jun 22, 2004",Spring 2004,Manga,8
+385,Gilgamesh,"Nov 2, 2003 to Mar 18, 2004",Fall 2003,Manga,20
+387,Haibane Renmei,"Oct 10, 2002 to Dec 19, 2002",Fall 2002,Other,48
+390,Suzuka,"Jul 7, 2005 to Dec 29, 2005",Summer 2005,Manga,7
+392,Yuu Yuu Hakusho,"Oct 10, 1992 to Jan 7, 1995",Fall 1992,Manga,5
+394,Ai Yori Aoshi: Enishi,"Oct 13, 2003 to Dec 29, 2003",Fall 2003,Manga,3
+395,Gantz 2nd Stage,"Aug 26, 2004 to Nov 18, 2004",Summer 2004,Manga,8
+396,Seikai no Senki,"Apr 14, 2000 to Jul 14, 2000",Spring 2000,Light novel,0
+397,Seikai no Senki II,"Jul 11, 2001 to Sep 26, 2001",Summer 2001,Light novel,0
+400,Seihou Bukyou Outlaw Star,"Jan 9, 1998 to Jun 26, 1998",Winter 1998,Manga,0
+411,Gun x Sword,"Jul 4, 2005 to Dec 26, 2005",Summer 2005,Original,55
+412,Kore ga Watashi no Goshujinsama,"Apr 8, 2005 to Jul 1, 2005",Spring 2005,Manga,10
+417,Ragnarok The Animation,"Apr 7, 2004 to Sep 29, 2004",Spring 2004,Game,56
+419,Samurai Deeper Kyou,"Jul 2, 2002 to Dec 24, 2002",Summer 2002,Manga,9
+421,Stratos 4,"Jan 5, 2003 to Mar 30, 2003",Winter 2003,Original,32
+424,Dirty Pair,"Jul 15, 1985 to Dec 26, 1985",Summer 1985,Light novel,0
+427,Kaleido Star,"Apr 3, 2003 to Mar 27, 2004",Spring 2003,Original,8
+435,Magic Knight Rayearth,"Oct 17, 1994 to Mar 13, 1995",Fall 1994,Manga,51
+440,Shoujo Kakumei Utena,"Apr 2, 1997 to Dec 24, 1997",Spring 1997,Original,3
+447,WeiB Kreuz,"Apr 9, 1998 to Oct 1, 1998",Spring 1998,Original,57
+456,Gokujou Seitokai,"Apr 7, 2005 to Sep 29, 2005",Spring 2005,Original,3
+457,Mushishi,"Oct 23, 2005 to Jun 19, 2006",Fall 2005,Manga,58
+467,Koukaku Kidoutai: Stand Alone Complex,"Oct 1, 2002 to Oct 1, 2003",Fall 2002,Manga,26
+469,Karin,"Nov 3, 2005 to May 11, 2006",Fall 2005,Manga,3
+472,To Heart,"Apr 2, 1999 to Jun 25, 1999",Spring 1999,Visual novel,12
+473,Tide-Line Blue,"Jul 7, 2005 to Sep 29, 2005",Summer 2005,Original,59
+477,Aria the Animation,"Oct 6, 2005 to Dec 29, 2005",Fall 2005,Manga,24
+478,Sousei no Aquarion,"Apr 5, 2005 to Sep 27, 2005",Spring 2005,Original,60
+479,Ueki no Housoku,"Apr 4, 2005 to Mar 27, 2006",Spring 2005,Manga,9
+481,Yu Gi Oh! Duel Monsters,"Apr 18, 2000 to Sep 29, 2004",Spring 2000,Manga,2
+482,Yu Gi Oh!: Duel Monsters GX,"Oct 6, 2004 to Mar 26, 2008",Fall 2004,Manga,2
+483,Kurau Phantom Memory,"Jun 25, 2004 to Dec 16, 2004",Summer 2004,Original,15
+486,Kino no Tabi: The Beautiful World,"Apr 8, 2003 to Jul 8, 2003",Spring 2003,Light novel,4
+487,Girls Bravo: Second Season,"Jan 27, 2005 to Apr 21, 2005",Winter 2005,Manga,42
+488,Ichigo Mashimaro,"Jul 15, 2005 to Oct 14, 2005",Summer 2005,4-koma manga,17
+489,Kamichu!,"Jun 29, 2005 to Sep 27, 2005",Summer 2005,Original,61
+490,Paniponi Dash!,"Jul 4, 2005 to Dec 26, 2005",Summer 2005,Manga,31
+495,Bakuretsu Hunters,"Oct 3, 1995 to Mar 26, 1996",Fall 1995,Manga,16
+506,Glass no Kamen,"Apr 9, 1984 to Sep 24, 1984",Spring 1984,Manga,62
+508,Tottoko Hamtarou,"Jul 7, 2000 to Mar 31, 2006",Summer 2000,Manga,47
+509,I My Me! Strawberry Eggs,"Jul 4, 2001 to Sep 26, 2001",Summer 2001,Original,29
+511,Kidou Shinsengumi Moeyo Ken TV,"Jul 2, 2005 to Sep 24, 2005",Summer 2005,Game,63
+516,Keroro Gunsou,"Apr 3, 2004 to Apr 4, 2011",Spring 2004,Manga,0
+521,Mermaid Melody Pichi Pichi Pitch,"Apr 5, 2003 to Mar 27, 2004",Spring 2003,Manga,64
+525,Otogizoushi,"Jul 7, 2004 to Mar 30, 2005",Summer 2004,Original,26
+527,Pokemon,"Apr 1, 1997 to Nov 14, 2002",Spring 1997,Game,12
+529,Saishuu Heiki Kanojo,"Jul 2, 2002 to Sep 24, 2002",Summer 2002,Manga,8
+530,Bishoujo Senshi Sailor Moon,"Mar 7, 1992 to Feb 27, 1993",Spring 1992,Manga,30
+532,Bishoujo Senshi Sailor Moon S,"Mar 19, 1994 to Feb 25, 1995",Spring 1994,Manga,30
+534,Slayers,"Apr 7, 1995 to Sep 29, 1995",Spring 1995,Light novel,50
+535,Slayers Next,"Apr 5, 1996 to Sep 27, 1996",Spring 1996,Light novel,50
+538,Shin Tenchi Muyou!,"Apr 1, 1997 to Sep 23, 1997",Spring 1997,Original,14
+552,Digimon Adventure,"Mar 7, 1999 to Mar 26, 2000",Spring 1999,Other,30
+553,Yami no Matsuei,"Oct 2, 2000 to Dec 18, 2000",Fall 2000,Manga,3
+554,Koutetsu Tenshi Kurumi,"Oct 5, 1999 to Apr 4, 2000",Fall 1999,Original,12
+555,Koutetsu Tenshi Kurumi 2,"Apr 12, 2001 to Jun 28, 2001",Spring 2001,Original,12
+561,Sakura Taisen,"Apr 8, 2000 to Sep 23, 2000",Spring 2000,Game,1
+563,DNA2,"Oct 7, 1994 to Dec 23, 1994",Fall 1994,Manga,1
+567,The Big O,"Oct 13, 1999 to Mar 27, 2003",Fall 1999,Original,0
+568,Bubblegum Crisis Tokyo 2040,"Oct 8, 1998 to Apr 1, 1999",Fall 1998,Original,14
+569,Musekinin Kanchou Tylor,"Jan 25, 1993 to Jul 19, 1993",Winter 1993,Light novel,11
+573,Saber Marionette J,"Oct 1, 1996 to Mar 25, 1997",Fall 1996,Original,66
+576,Magikano,"Jan 1, 2006 to Apr 1, 2006",Winter 2006,Manga,40
+577,Kagi Hime Monogatari: Eikyuu Alice Rondo,"Jan 4, 2006 to Mar 29, 2006",Winter 2006,Manga,63
+584,Noein: Mou Hitori no Kimi e,"Oct 12, 2005 to Mar 29, 2006",Fall 2005,Original,60
+586,Ayakashi: Japanese Classic Horror,"Jan 13, 2006 to Mar 24, 2006",Winter 2006,Other,30
+587,Hanbun no Tsuki ga Noboru Sora,"Jan 13, 2006 to Feb 24, 2006",Winter 2006,Light novel,20
+590,Kage kara Mamoru!,"Jan 8, 2006 to Mar 26, 2006",Winter 2006,Light novel,20
+593,Mugen no Ryvius,"Oct 6, 1999 to Mar 29, 2000",Fall 1999,Original,0
+603,Futari wa Precure,"Feb 1, 2004 to Jan 30, 2005",Winter 2004,Original,30
+604,Mahou no Stage Fancy Lala,"Apr 5, 1998 to Sep 27, 1998",Spring 1998,Original,5
+605,Tenshi ni Narumon!,"Apr 7, 1999 to Sep 29, 1999",Spring 1999,Original,5
+606,Kazemakase Tsukikage Ran,"Jan 26, 2000 to Apr 19, 2000",Winter 2000,Original,1
+610,Popotan,"Mar 18, 2003 to Oct 3, 2003",Spring 2003,Visual novel,31
+618,Juubee Ninpuuchou: Ryuuhougyoku-hen,"Apr 15, 2003 to Jul 15, 2003",Spring 2003,Original,1
+620,Takahashi Rumiko Gekijou Ningyo no Mori,"Oct 5, 2003 to Dec 21, 2003",Fall 2003,Manga,47
+621,Night Walker: Mayonaka no Tantei,"Jul 9, 1998 to Sep 23, 1998",Summer 1998,Visual novel,14
+623,Shichinin no Nana,"Jan 10, 2002 to Jun 27, 2002",Winter 2002,Manga,4
+624,Mouse,"Jan 6, 2003 to Mar 24, 2003",Winter 2003,Manga,9
+634,Koi Kaze,"Apr 2, 2004 to Jun 18, 2004",Spring 2004,Manga,4
+635,Juubee-chan: Lovely Gantai no Himitsu,"Apr 6, 1999 to Jun 29, 1999",Spring 1999,Original,1
+636,Juubee-chan 2: Siberia Yagyuu no Gyakushuu,"Jan 8, 2004 to Apr 1, 2004",Winter 2004,Original,1
+649,Hanaukyou Maid-tai: La Verite,"Apr 4, 2004 to Jun 20, 2004",Spring 2004,Manga,17
+652,Galaxy Angel Z,"Feb 3, 2002 to Mar 31, 2002",Winter 2002,Original,1
+653,Galaxy Angel 3,"Oct 6, 2002 to Mar 31, 2003",Fall 2002,Original,1
+655,Galaxy Angel 4,"Jul 7, 2004 to Sep 29, 2004",Summer 2004,Game,1
+667,Kashimashi: Girl Meets Girl,"Jan 12, 2006 to Mar 30, 2006",Winter 2006,Manga,44
+668,Koi Koi 7,"Apr 2, 2005 to Jun 25, 2005",Spring 2005,Manga,68
+682,Otogi Story Tenshi no Shippo,"Oct 4, 2001 to Dec 20, 2001",Fall 2001,Original,40
+687,Tokyo Mew Mew,"Apr 6, 2002 to Mar 29, 2003",Spring 2002,Manga,5
+688,Uta Kata,"Oct 3, 2004 to Dec 19, 2004",Fall 2004,Original,24
+690,Kyuuketsuhime Miyu (TV),"Oct 6, 1997 to Mar 30, 1998",Fall 1997,Manga,14
+691,Yawara!,"Oct 16, 1989 to Sep 21, 1992",Fall 1989,Manga,1
+693,Burn Up Scramble,"Jan 12, 2004 to Mar 29, 2004",Winter 2004,Original,14
+696,Tenchi Muyou!,"Apr 2, 1995 to Sep 24, 1995",Spring 1995,Original,14
+706,Comic Party Revolution,"Apr 4, 2005 to Jun 27, 2005",Spring 2005,Visual novel,48
+718,Yume de Aetara (TV),"Nov 30, 1998 to Dec 24, 1998",Fall 1998,Manga,3
+721,Princess Tutu,"Aug 16, 2002 to May 23, 2003",Summer 2002,Original,24
+738,MAR,"Apr 3, 2005 to Mar 25, 2007",Spring 2005,Manga,65
+740,Bishoujo Senshi Sailor Moon R,"Mar 6, 1993 to Mar 12, 1994",Spring 1993,Manga,30
+744,Trouble Chocolate,"Oct 8, 1999 to Mar 24, 2000",Fall 1999,Radio,14
+776,Nanaka 6/17,"Jan 9, 2003 to Mar 27, 2003",Winter 2003,Manga,3
+782,Gasaraki,"Oct 4, 1998 to Mar 28, 1999",Fall 1998,Original,0
+789,Shinigami no Ballad.,"Mar 3, 2006 to Apr 7, 2006",Spring 2006,Light novel,20
+790,Ergo Proxy,"Feb 25, 2006 to Aug 12, 2006",Winter 2006,Original,35
+800,NieA Under 7,"Apr 26, 2000 to Jul 19, 2000",Spring 2000,Original,52
+801,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,"Jan 1, 2004 to Jan 8, 2005",Winter 2004,Manga,26
+812,Chikyuu Shoujo Arjuna,"Jan 9, 2001 to Mar 27, 2001",Winter 2001,Original,60
+813,Dragon Ball Z,"Apr 26, 1989 to Jan 31, 1996",Spring 1989,Manga,30
+831,Chicchana Yukitsukai Sugar,"Oct 2, 2001 to Mar 26, 2002",Fall 2001,Original,3
+833,Choujuushin Gravion,"Oct 7, 2002 to Dec 16, 2002",Fall 2002,Original,8
+836,Sister Princess,"Apr 4, 2001 to Sep 26, 2001",Spring 2001,Light novel,70
+838,Narutaru: Mukuro Naru Hoshi Tama Taru Ko,"Jul 7, 2003 to Sep 29, 2003",Summer 2003,Manga,71
+840,Narue no Sekai,"Apr 5, 2003 to Jun 28, 2003",Spring 2003,Manga,46
+841,Colorful,"Sep 6, 1999 to Sep 30, 1999",Summer 1999,Manga,52
+845,Kiba,"Apr 2, 2006 to Mar 25, 2007",Spring 2006,Original,1
+846,School Rumble Ni Gakki,"Apr 3, 2006 to Sep 25, 2006",Spring 2006,Manga,7
+849,Suzumiya Haruhi no Yuuutsu,"Apr 3, 2006 to Jul 3, 2006",Spring 2006,Light novel,19
+850,Gakuen Heaven,"Apr 1, 2006 to Jun 24, 2006",Spring 2006,Visual novel,40
+853,Ouran Koukou Host Club,"Apr 5, 2006 to Sep 27, 2006",Spring 2006,Manga,15
+854,Soul Link,"Apr 2, 2006 to Jun 25, 2006",Spring 2006,Visual novel,67
+855,Strawberry Panic,"Apr 4, 2006 to Sep 26, 2006",Spring 2006,Other,1
+856,Utawarerumono,"Apr 4, 2006 to Sep 26, 2006",Spring 2006,Visual novel,12
+857,Air Gear,"Apr 5, 2006 to Sep 27, 2006",Spring 2006,Manga,30
+859,Digimon Savers,"Apr 2, 2006 to Mar 25, 2007",Spring 2006,Original,30
+860,Makai Senki Disgaea,"Apr 5, 2006 to Jun 21, 2006",Spring 2006,Game,12
+861,xxxHOLiC,"Apr 7, 2006 to Sep 29, 2006",Spring 2006,Manga,26
+863,Joshikousei: Girl's High,"Apr 4, 2006 to Jun 20, 2006",Spring 2006,Manga,36
+873,.hack//Roots,"Apr 6, 2006 to Sep 28, 2006",Spring 2006,Original,13
+874,Digimon Tamers,"Apr 1, 2001 to Mar 31, 2002",Spring 2001,Original,30
+876,Street Fighter II V,"Apr 10, 1995 to Nov 27, 1995",Spring 1995,Game,44
+877,Nana,"Apr 5, 2006 to Mar 28, 2007",Spring 2006,Manga,1
+878,Zegapain,"Apr 6, 2006 to Sep 28, 2006",Spring 2006,Original,0
+879,Simoun,"Apr 3, 2006 to Sep 25, 2006",Spring 2006,Original,9
+880,Aa! Megami-sama!: Sorezore no Tsubasa,"Apr 7, 2006 to Sep 15, 2006",Spring 2006,Manga,14
+888,Megami Kouhosei,"Jan 20, 2000 to Mar 27, 2000",Winter 2000,Manga,16
+889,Black Lagoon,"Apr 9, 2006 to Jun 25, 2006",Spring 2006,Manga,1
+890,Yuusha-Ou GaoGaiGar,"Feb 1, 1997 to Jan 31, 1998",Winter 1997,Original,0
+907,Princess Princess,"Apr 6, 2006 to Jun 22, 2006",Spring 2006,Manga,9
+909,Geneshaft,"Apr 5, 2001 to Jun 28, 2001",Spring 2001,Original,60
+910,Himawari!,"Apr 9, 2006 to Jul 2, 2006",Spring 2006,Original,36
+914,Ike! Ina-chuu Takkyuubu,"Apr 6, 1995 to Sep 28, 1995",Spring 1995,Manga,44
+916,Tokkou,"Apr 16, 2006 to Jul 30, 2006",Spring 2006,Manga,42
+918,Gintama,"Apr 4, 2006 to Mar 25, 2010",Spring 2006,Manga,0
+919,Ray The Animation,"Apr 5, 2006 to Jun 28, 2006",Spring 2006,Manga,12
+929,Seisenshi Dunbine,"Feb 5, 1983 to Jan 21, 1984",Winter 1983,Novel,0
+930,Densetsu Kyojin Ideon,"May 8, 1980 to Jan 30, 1981",Spring 1980,Original,0
+934,Higurashi no Naku Koro ni,"Apr 5, 2006 to Sep 27, 2006",Spring 2006,Visual novel,9
+935,Witchblade,"Apr 6, 2006 to Sep 21, 2006",Spring 2006,Other,8
+940,Inukami!,"Apr 6, 2006 to Sep 28, 2006",Spring 2006,Light novel,21
+942,Nishi no Yoki Majo: Astraea Testament,"Apr 8, 2006 to Jul 1, 2006",Spring 2006,Light novel,24
+953,Jyu Oh Sei,"Apr 14, 2006 to Jun 23, 2006",Spring 2006,Manga,15
+956,Daikuu Maryuu Gaiking,"Apr 1, 1976 to Jan 27, 1977",Spring 1976,Original,30
+957,Saiunkoku Monogatari,"Apr 8, 2006 to Feb 24, 2007",Spring 2006,Light novel,1
+958,HeatGuy J,"Oct 2, 2002 to Mar 26, 2003",Fall 2002,Original,60
+961,Virtua Fighter,"Oct 9, 1995 to Jun 27, 1996",Fall 1995,Game,51
+962,Aria the Natural,"Apr 3, 2006 to Sep 25, 2006",Spring 2006,Manga,24
+967,Hokuto no Ken,"Oct 4, 1984 to Mar 5, 1987",Fall 1984,Manga,30
+969,Tsubasa Chronicle 2nd Season,"Apr 29, 2006 to Nov 4, 2006",Spring 2006,Manga,13
+973,Glass no Kantai: La Legende du Vent de l'Univers,"Apr 4, 2006 to Sep 21, 2006",Spring 2006,Original,8
+992,Dual! Parallel Lun-Lun Monogatari,"Apr 8, 1999 to Jul 1, 1999",Spring 1999,Original,14
+996,Bishoujo Senshi Sailor Moon: Sailor Stars,"Mar 9, 1996 to Feb 8, 1997",Spring 1996,Manga,30
+998,Blue Seed,"Oct 5, 1994 to Mar 29, 1995",Fall 1994,Manga,26
+1000,Uchuu Kaizoku Captain Herlock,"Mar 14, 1978 to Feb 13, 1979",Spring 1978,Manga,30
+1005,Star Ocean EX,"Apr 3, 2001 to Sep 25, 2001",Spring 2001,Game,9
+1013,Le Chevalier D'Eon,"Jul 2, 2006 to Feb 23, 2007",Summer 2006,Original,26
+1017,Majutsushi Orphen,"Oct 3, 1998 to Mar 27, 1999",Fall 1998,Light novel,3
+1018,Majutsushi Orphen: Revenge,"Oct 2, 1999 to Mar 26, 2000",Fall 1999,Light novel,3
+1019,Honoo no Mirage,"Jan 7, 2002 to Apr 8, 2002",Winter 2002,Light novel,1
+1025,Kachou Ouji,"Jul 8, 1999 to Oct 7, 1999",Summer 1999,Original,14
+1045,Elf wo Karu Mono-tachi,"Oct 4, 1996 to Dec 20, 1996",Fall 1996,Manga,20
+1048,The SoulTaker: Tamashii-gari,"Apr 4, 2001 to Jul 4, 2001",Spring 2001,Original,11
+1050,Bobobo-bo Bo-bobo,"Nov 8, 2003 to Sep 30, 2005",Fall 2003,Manga,30
+1069,Chou Denji Machine Voltes V,"Jun 4, 1977 to Mar 25, 1978",Summer 1977,Original,0
+1082,Hikari to Mizu no Daphne,"Jan 16, 2004 to Jul 3, 2004",Winter 2004,Original,3
+1083,Human Crossing,"Apr 5, 2003 to Jun 28, 2003",Spring 2003,Manga,4
+1087,Kimagure Orange Road,"Apr 6, 1987 to Mar 7, 1988",Spring 1987,Manga,5
+1088,Macross,"Oct 3, 1982 to Jun 26, 1983",Fall 1982,Original,11
+1103,Shinkon Gattai Godannar!!,"Oct 1, 2003 to Dec 24, 2003",Fall 2003,Original,12
+1108,Senkaiden Houshin Engi,"Jul 3, 1999 to Dec 25, 1999",Summer 1999,Manga,9
+1126,Figure 17: Tsubasa & Hikaru,"May 27, 2001 to May 26, 2002",Spring 2001,Original,12
+1127,UFO Princess Valkyrie,"Jul 4, 2002 to Sep 19, 2002",Summer 2002,Manga,29
+1128,UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku,"Oct 4, 2003 to Dec 20, 2003",Fall 2003,Manga,29
+1132,Digimon Frontier,"Apr 7, 2002 to Mar 30, 2003",Spring 2002,Original,30
+1133,Tenchi Muyou! GXP,"Apr 2, 2002 to Sep 25, 2002",Spring 2002,Original,14
+1137,Mushrambo,"Feb 5, 2000 to Sep 23, 2000",Winter 2000,Original,30
+1138,Medarot,"Jul 2, 1999 to Jun 30, 2000",Summer 1999,Game,13
+1142,Hachimitsu to Clover II,"Jun 30, 2006 to Sep 15, 2006",Summer 2006,Manga,3
+1156,I: Wish You Were Here,"Oct 4, 2001 to Nov 24, 2001",Fall 2001,Original,8
+1157,Final Fantasy: Unlimited,"Oct 2, 2001 to Mar 26, 2002",Fall 2001,Game,8
+1161,Maze Bakunetsu Jikuu (TV),"Apr 3, 1997 to Sep 25, 1997",Spring 1997,Manga,3
+1163,Neo Ranga,"Apr 6, 1998 to Sep 28, 1999",Spring 1998,Original,5
+1167,Samurai Gun,"Oct 4, 2004 to Dec 14, 2004",Fall 2004,Manga,75
+1172,Slayers Try,"Apr 4, 1997 to Sep 26, 1997",Spring 1997,Light novel,3
+1175,Metal Fighter Miku,"Jul 8, 1994 to Sep 30, 1994",Summer 1994,Original,3
+1179,Gakuen Senki Muryou,"May 8, 2001 to Dec 4, 2001",Spring 2001,Original,1
+1184,Lost Universe,"Apr 3, 1998 to Sep 25, 1998",Spring 1998,Light novel,50
+1186,Battle Athletess Daiundoukai (TV),"Oct 3, 1997 to Mar 27, 1998",Fall 1997,Original,14
+1194,Coyote Ragtime Show,"Jul 4, 2006 to Sep 19, 2006",Summer 2006,Original,37
+1195,Zero no Tsukaima,"Jul 3, 2006 to Sep 25, 2006",Summer 2006,Light novel,3
+1210,NHK ni Youkoso!,"Jul 10, 2006 to Dec 18, 2006",Summer 2006,Novel,8
+1212,Oban Star-Racers,"Apr 12, 2006 to Dec 6, 2006",Spring 2006,Original,24
+1224,Aquarian Age: Sign for Evolution,"Jan 11, 2002 to Mar 29, 2002",Winter 2002,Card game,1
+1230,Innocent Venus,"Jul 27, 2006 to Oct 26, 2006",Summer 2006,Original,61
+1239,Bishoujo Senshi Sailor Moon SuperS,"Mar 4, 1995 to Mar 2, 1996",Spring 1995,Manga,30
+1243,Night Head Genesis,"Jun 17, 2006 to Dec 31, 2006",Summer 2006,Manga,76
+1246,Yuugo: Koushounin,"Feb 24, 2004 to May 25, 2004",Winter 2004,Manga,58
+1249,Zone of the Enders: Dolores I,"Apr 7, 2001 to Sep 29, 2001",Spring 2001,Game,0
+1250,Erementar Gerad,"Apr 5, 2005 to Sep 27, 2005",Spring 2005,Manga,16
+1251,Fushigi no Umi no Nadia,"Apr 13, 1990 to Apr 12, 1991",Spring 1990,Original,10
+1261,Kyattou Ninden Teyandee,"Feb 1, 1990 to Feb 12, 1991",Winter 1990,Original,11
+1281,Gakkou no Kaidan,"Oct 22, 2000 to Mar 25, 2001",Fall 2000,Original,5
+1292,Afro Samurai,"May 3, 2007 to May 4, 2007",Spring 2007,Original,8
+1293,Urusei Yatsura,"Oct 14, 1981 to Mar 19, 1986",Fall 1981,Manga,5
+1312,Chikyuu Bouei Kigyou Dai-Guard,"Oct 5, 1999 to Mar 28, 2000",Fall 1999,Original,16
+1313,Digimon Adventure 02,"Apr 2, 2000 to Mar 25, 2001",Spring 2000,Original,30
+1333,Fushigi na Koala Blinky,"Jul 7, 1984 to Dec 28, 1984",Summer 1984,Original,25
+1349,A.D. Police (TV),"Apr 8, 1999 to Jul 1, 1999",Spring 1999,Original,57
+1371,Hi no Tori,"Mar 21, 2004 to Jun 27, 2004",Spring 2004,Manga,77
+1372,Taiho Shichau zo (TV),"Oct 5, 1996 to Sep 27, 1997",Fall 1996,Manga,9
+1374,Kyoushoku Soukou Guyver (2005),"Aug 6, 2005 to Feb 18, 2006",Summer 2005,Manga,12
+1409,IGPX: Immortal Grand Prix,"Sep 15, 2003 to Sep 19, 2003",Summer 2003,Original,26
+1410,IGPX: Immortal Grand Prix (2005) 2nd Season,"May 20, 2006 to Aug 26, 2006",Spring 2006,Original,26
+1412,Lupin III,"Oct 24, 1971 to Mar 26, 1972",Fall 1971,Manga,51
+1425,Lupin III: Part II,"Oct 3, 1977 to Oct 6, 1980",Fall 1977,Manga,51
+1442,Alexander Senki,"Sep 15, 1999 to Sep 18, 1999",Summer 1999,Novel,1
+1450,Brigadoon: Marin to Melan,"Jul 21, 2000 to Feb 9, 2001",Summer 2000,Original,0
+1453,Maison Ikkoku,"Mar 26, 1986 to Mar 2, 1988",Spring 1986,Manga,9
+1456,L/R: Licensed by Royal,"Jan 8, 2003 to Mar 26, 2003",Winter 2003,Original,29
+1459,Uchuu no Kishi Tekkaman Blade,"Feb 18, 1992 to Feb 2, 1993",Winter 1992,Original,11
+1465,Hakaima Sadamitsu,"Jan 17, 2001 to Mar 21, 2001",Winter 2001,Manga,9
+1466,Hakugei Densetsu,"Apr 9, 1997 to May 12, 1999",Spring 1997,Original,66
+1470,City Hunter,"Apr 6, 1987 to Mar 28, 1988",Spring 1987,Manga,0
+1482,D.Gray-man,"Oct 3, 2006 to Sep 30, 2008",Fall 2006,Manga,47
+1483,Master Keaton,"Oct 6, 1998 to Mar 29, 1999",Fall 1998,Manga,1
+1486,Kodomo no Omocha (TV),"Apr 5, 1996 to Mar 27, 1998",Spring 1996,Manga,2
+1490,Ginga Tetsudou Monogatari,"Oct 4, 2003 to Apr 4, 2004",Fall 2003,Original,71
+1498,Black Blood Brothers,"Sep 8, 2006 to Nov 24, 2006",Fall 2006,Light novel,20
+1508,Sci-fi Harry,"Oct 6, 2000 to Mar 23, 2001",Fall 2000,Manga,73
+1509,Mamotte! Lollipop,"Jul 2, 2006 to Sep 24, 2006",Summer 2006,Manga,7
+1517,Silent Mobius,"Jan 29, 1998 to Apr 7, 1998",Winter 1998,Manga,48
+1519,Black Lagoon: The Second Barrage,"Oct 3, 2006 to Dec 19, 2006",Fall 2006,Manga,1
+1524,Fuujin Monogatari,"Sep 11, 2004 to Feb 26, 2005",Fall 2004,Original,26
+1530,Kanon (2006),"Oct 6, 2006 to Mar 16, 2007",Fall 2006,Visual novel,19
+1532,Suki na Mono wa Suki Dakara Shou ga Nai!!,"Jan 9, 2005 to Mar 27, 2005",Winter 2005,Visual novel,70
+1533,Ai Tenshi Densetsu Wedding Peach,"Apr 5, 1995 to Mar 27, 1996",Spring 1995,Manga,12
+1535,Death Note,"Oct 4, 2006 to Jun 27, 2007",Fall 2006,Manga,1
+1536,Busou Renkin,"Oct 5, 2006 to Mar 29, 2007",Fall 2006,Manga,16
+1538,Pumpkin Scissors,"Oct 3, 2006 to Mar 18, 2007",Fall 2006,Manga,8
+1542,Brain Powerd,"Apr 8, 1998 to Nov 11, 1998",Spring 1998,Original,0
+1546,Negima!?,"Oct 4, 2006 to Mar 28, 2007",Fall 2006,Manga,31
+1554,Asatte no Houkou.,"Oct 6, 2006 to Dec 22, 2006",Fall 2006,Manga,3
+1557,Shounen Onmyouji,"Oct 3, 2006 to Mar 13, 2007",Fall 2006,Light novel,9
+1559,Shijou Saikyou no Deshi Kenichi,"Oct 7, 2006 to Sep 30, 2007",Fall 2006,Manga,47
+1564,Pokemon Advanced Generation,"Nov 21, 2002 to Sep 14, 2006",Fall 2002,Game,12
+1565,Pokemon Diamond & Pearl,"Sep 28, 2006 to Sep 9, 2010",Fall 2006,Game,12
+1567,Kaitou Saint Tail,"Oct 12, 1995 to Sep 12, 1996",Fall 1995,Manga,47
+1569,Otome wa Boku ni Koishiteru,"Oct 8, 2006 to Dec 24, 2006",Fall 2006,Visual novel,28
+1570,Happiness!,"Oct 6, 2006 to Dec 22, 2006",Fall 2006,Visual novel,58
+1571,Ghost Hunt,"Oct 4, 2006 to Mar 28, 2007",Fall 2006,Light novel,3
+1573,Kishin Douji Zenki,"Jan 9, 1995 to Dec 25, 1995",Winter 1995,Manga,9
+1575,Code Geass: Hangyaku no Lelouch,"Oct 6, 2006 to Jul 29, 2007",Fall 2006,Original,0
+1579,Kiniro no Corda: Primo Passo,"Oct 2, 2006 to Mar 26, 2007",Fall 2006,Visual novel,79
+1583,009-1,"Oct 6, 2006 to Dec 22, 2006",Fall 2006,Manga,80
+1587,Tenpou Ibun: Ayakashi Ayashi,"Oct 7, 2006 to Mar 31, 2007",Fall 2006,Original,15
+1591,Kujibiki Unbalance,"Oct 7, 2006 to Dec 23, 2006",Fall 2006,Other,81
+1592,Hataraki Man,"Oct 13, 2006 to Dec 22, 2006",Fall 2006,Manga,2
+1594,Jigoku Shoujo Futakomori,"Oct 7, 2006 to Apr 7, 2007",Fall 2006,Original,9
+1601,Red Garden,"Oct 4, 2006 to Mar 14, 2007",Fall 2006,Original,8
+1602,Soukou no Strain,"Nov 2, 2006 to Feb 15, 2007",Fall 2006,Original,32
+1603,Super Robot Taisen OG: Divine Wars,"Oct 5, 2006 to Mar 29, 2007",Fall 2006,Game,12
+1604,Katekyo Hitman Reborn!,"Oct 7, 2006 to Sep 25, 2010",Fall 2006,Manga,58
+1606,Kekkaishi (TV),"Oct 16, 2006 to Feb 5, 2008",Fall 2006,Manga,0
+1607,Venus Versus Virus,"Jan 12, 2007 to Mar 30, 2007",Winter 2007,Manga,44
+1628,Maou Dante,"Aug 31, 2002 to Nov 21, 2002",Summer 2002,Manga,53
+1629,Devilman Lady,"Oct 10, 1998 to May 8, 1999",Fall 1998,Manga,47
+1638,Peter Pan no Bouken,"Jan 15, 1989 to Dec 24, 1989",Winter 1989,Book,25
+1650,Uchuu Senkan Yamato,"Oct 6, 1974 to Mar 30, 1975",Fall 1974,Original,20
+1655,Nerima Daikon Brothers,"Jan 9, 2006 to Mar 27, 2006",Winter 2006,Original,44
+1660,Kurogane Communication,"Oct 5, 1998 to Mar 29, 1999",Fall 1998,Manga,73
+1661,Cutey Honey,"Oct 13, 1973 to Mar 30, 1974",Fall 1973,Manga,30
+1668,Bakuten Shoot Beyblade G Revolution,"Jan 6, 2003 to Dec 29, 2003",Winter 2003,Manga,1
+1669,Bakuten Shoot Beyblade 2002,"Jan 7, 2002 to Dec 30, 2002",Winter 2002,Manga,25
+1676,Cosmo Warrior Zero,"Jul 6, 2001 to Sep 28, 2001",Summer 2001,Game,82
+1678,Cyborg 009: The Cyborg Soldier,"Oct 14, 2001 to Aug 27, 2003",Fall 2001,Manga,31
+1685,Duel Masters,"Oct 21, 2002 to Apr 4, 2003",Fall 2002,Manga,44
+1690,Bokura no,"Apr 9, 2007 to Sep 25, 2007",Spring 2007,Manga,8
+1694,iDOLM@STER Xenoglossia,"Apr 3, 2007 to Sep 25, 2007",Spring 2007,Original,0
+1699,Romeo x Juliet,"Apr 5, 2007 to Sep 26, 2007",Spring 2007,Book,8
+1704,Eat-Man,"Jan 9, 1997 to Mar 27, 1997",Winter 1997,Manga,9
+1706,Gun Frontier,"Mar 28, 2002 to Jun 20, 2002",Spring 2002,Manga,83
+1707,Kinnikuman II Sei,"Jan 9, 2002 to Dec 25, 2002",Winter 2002,Manga,30
+1710,Rockman.EXE,"Mar 4, 2002 to Mar 31, 2003",Spring 2002,Game,16
+1713,Submarine Super 99,"May 8, 2003 to Jul 31, 2003",Spring 2003,Manga,82
+1722,Nagasarete Airantou,"Apr 5, 2007 to Sep 27, 2007",Spring 2007,Manga,28
+1726,Devil May Cry,"Jun 14, 2007 to Sep 6, 2007",Summer 2007,Game,1
+1727,Shinkyoku Soukai Polyphonica,"Apr 4, 2007 to Jun 20, 2007",Spring 2007,Visual novel,69
+1728,Super GALS! Kotobuki Ran,"Apr 1, 2001 to Mar 31, 2002",Spring 2001,Manga,5
+1735,Naruto: Shippuuden,"Feb 15, 2007 to Mar 23, 2017",Winter 2007,Manga,5
+1738,Muteki Kanban Musume,"Jul 5, 2006 to Sep 20, 2006",Summer 2006,Manga,59
+1744,Wagamama Fairy Mirumo de Pon!,"Apr 6, 2002 to Sep 27, 2005",Spring 2002,Manga,44
+1769,Oh! Super Milk-chan,"Jan 27, 2000 to Apr 13, 2000",Winter 2000,Original,5
+1775,Jikuu Tenshou Nazca,"Apr 6, 1998 to Jun 29, 1998",Spring 1998,Manga,84
+1792,Overman King Gainer,"Sep 7, 2002 to Mar 22, 2003",Fall 2002,Original,0
+1810,Kyoushirou to Towa no Sora,"Jan 5, 2007 to Mar 23, 2007",Winter 2007,Manga,29
+1816,Sonic X,"Apr 6, 2003 to Mar 28, 2004",Spring 2003,Game,47
+1818,Claymore,"Apr 4, 2007 to Sep 26, 2007",Spring 2007,Manga,1
+1826,Deltora Quest,"Jan 6, 2007 to Mar 29, 2008",Winter 2007,Book,12
+1827,Seirei no Moribito,"Apr 7, 2007 to Sep 29, 2007",Spring 2007,Novel,26
+1836,Shuffle! Memories,"Jan 8, 2007 to Mar 26, 2007",Winter 2007,Visual novel,22
+1837,Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida,"Jul 5, 2003 to Sep 20, 2003",Summer 2003,Light novel,37
+1840,Zero no Tsukaima: Futatsuki no Kishi,"Jul 9, 2007 to Sep 24, 2007",Summer 2007,Light novel,3
+1844,Clamp Gakuen Tanteidan,"May 3, 1997 to Oct 25, 1997",Spring 1997,Manga,5
+1846,Princess Nine: Kisaragi Joshikou Yakyuubu,"Apr 8, 1998 to Oct 14, 1998",Spring 1998,Original,85
+1852,Hidamari Sketch,"Jan 12, 2007 to Mar 30, 2007",Winter 2007,4-koma manga,31
+1858,Gakuen Utopia Manabi Straight!,"Jan 8, 2007 to Mar 26, 2007",Winter 2007,Original,37
+1860,Tokyo Majin Gakuen Kenpucho: Tou,"Jan 19, 2007 to Apr 20, 2007",Winter 2007,Game,42
+1887,Lucky Star,"Apr 8, 2007 to Sep 17, 2007",Spring 2007,4-koma manga,19
+1889,Higurashi no Naku Koro ni Kai,"Jul 6, 2007 to Dec 18, 2007",Summer 2007,Visual novel,9
+1897,Zettai Muteki Raijin-Oh,"Apr 3, 1991 to Mar 25, 1992",Spring 1991,Original,0
+1942,Rocket Girls,"Feb 22, 2007 to May 18, 2007",Winter 2007,Light novel,87
+1956,Ikkitousen: Dragon Destiny,"Feb 26, 2007 to May 14, 2007",Winter 2007,Manga,36
+1965,Sola,"Apr 7, 2007 to Jun 30, 2007",Spring 2007,Manga,18
+1974,Glass no Kamen (2005),"Apr 6, 2005 to Mar 29, 2006",Spring 2005,Manga,51
+1988,Himawari!!,"Jan 7, 2007 to Apr 1, 2007",Winter 2007,Original,36

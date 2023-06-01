@@ -1,0 +1,212 @@
+id,Name,NoM,genre_id
+0,Sunrise,16,1
+1,Madhouse,120,0
+2,Gallop,95,2
+3,J.C.Staff,141,39
+4,A.C.G.T.,26,23
+5,Studio Pierrot,108,18
+6,Trans Arts,141,4
+7,Studio Comet,44,1
+8,Gonzo,40,7
+9,Studio Deen,25,1
+10,Gainax,79,3
+11,Tatsunoko Production,109,28
+12,OLM,130,18
+13,Bee Train,100,11
+14,AIC,21,25
+15,Bones,23,5
+16,Xebec,105,0
+17,Daume,63,1
+18,Nomad,53,4
+19,Kyoto Animation,49,14
+20,Group TAC,117,1
+21,Seven Arcs,126,20
+22,Asread,78,4
+23,Nakamura Production,137,2
+24,Hal Film Maker,133,29
+25,Nippon Animation,48,9
+26,Production I.G,88,13
+27,Studio Matrix,150,16
+28,feel.,16,2
+29,TNK,39,29
+30,Toei Animation,86,6
+31,Shaft,71,27
+32,Studio Fantasia,114,13
+33,Production Reed,86,14
+34,Pastel,134,1
+35,Manglobe,79,4
+36,Arms,147,32
+37,ufotable,17,13
+38,Chaos Project,121,2
+39,GANSIS,57,27
+40,Tokyo Kids,127,2
+41,Palm Studio,140,6
+42,AIC Spirits,54,2
+43,Shin-Ei Animation,40,3
+44,Studio Hibari,122,2
+45,Imagin,37,29
+46,Studio Live,102,4
+47,TMS Entertainment,127,2
+48,Radix,16,4
+49,Amber Film Works,84,4
+50,E&G Films,115,1
+51,Tokyo Movie Shinsha,73,36
+52,Triangle Staff,102,10
+53,Magic Bus,130,0
+54,Japan Vistec,81,28
+55,AIC ASTA,124,7
+56,G&G Entertainment,100,1
+57,Plum,104,1
+58,Artland,89,21
+59,Telecom Animation Film,49,2
+60,Satelight,18,22
+61,Brain's Base,106,0
+62,Eiken,16,27
+63,Trinet Entertainment,77,9
+64,Actas,145,18
+65,SynergySP,83,9
+66,Studio Junio,125,0
+67,Picture Magic,52,1
+68,Studio Flag,76,9
+69,Ginga Ya,92,2
+70,Zexcs,141,11
+71,Planet,87,0
+72,Studio Wombat,145,29
+73,APPP,21,18
+74,Amuse,79,0
+75,Studio Egg,48,11
+76,Bee Media,132,13
+77,Tezuka Productions,79,2
+78,Annapuru,119,13
+79,Yumeta Company,107,1
+80,Ishimori Entertainment,126,6
+81,Ajia-Do,52,7
+82,Vega Entertainment,112,3
+83,Echo,149,13
+84,Genco,64,1
+85,Phoenix Entertainment,25,4
+86,BeSTACK,30,2
+87,Mook DLE,83,32
+88,P.A. Works,112,0
+89,Minami Machi Bugyousho,65,3
+90,A-1 Pictures,131,4
+91,Remic,80,1
+92,Studio Sign,36,21
+93,Studio Kyuuma,60,10
+94,Cookie Jar Entertainment,115,2
+95,Mushi Production,63,2
+96,Telescreen,31,21
+97,Panmedia,42,4
+98,Meruhensha,19,3
+99,Doga Kobo,46,13
+100,Diomedéa,107,0
+101,White Fox,109,14
+102,Ordet,118,6
+103,Shirogumi,142,10
+104,The Answer Studio,64,27
+105,Studio World,74,27
+106,Marvy Jack,45,20
+107,Code,41,23
+108,SILVER LINK.,31,1
+109,David Production,32,4
+110,AIC PLUS+,41,29
+111,Kinema Citrus,144,13
+112,Tama Production,70,1
+113,Knack Productions,17,9
+114,Hoods Entertainment,55,6
+115,TYO Animations,111,6
+116,GoHands,135,24
+117,AIC Build,59,4
+118,8bit,150,2
+119,Pierrot Plus,45,3
+120,Studio Gokumi,133,20
+121,Barnum Studio,95,3
+122,Project No.9,103,3
+123,Studio Blanc,41,13
+124,ixtl,63,22
+125,Encourage Films,99,3
+126,Asahi Production,21,3
+127,DLE,98,4
+128,Milky Cartoon,147,27
+129,MAPPA,116,4
+130,AIC Classic,150,20
+131,Orange,138,2
+132,Production IMS,58,6
+133,Wit Studio,99,2
+134,Bridge,54,10
+135,Lerche,105,12
+136,Felix Film,62,0
+137,Connect,79,3
+138,Animation Do,90,9
+139,Trigger,52,9
+140,teamKG,102,13
+141,SANZIGEN,110,14
+142,ILCA,144,6
+143,Polygon Pictures,39,29
+144,LIDENFILMS,120,3
+145,NAZ,18,6
+146,C-Station,69,4
+147,Tri-Slash,42,3
+148,Studio Ghibli,76,28
+149,TROYCA,26,5
+150,Shuka,116,10
+151,Studio 3Hz,66,36
+152,Passione,135,24
+153,Seven Arcs Pictures,118,2
+154,Bandai Namco Pictures,120,11
+155,Seven,39,4
+156,Graphinica,56,2
+157,EMT Squared,126,0
+158,3xCube,86,7
+159,Studio VOLN,66,9
+160,Nexus,99,10
+161,Lay-duce,32,4
+162,Platinum Vision,43,10
+163,Hoods Drifters Studio,64,2
+164,M.S.C,74,13
+165,CygamesPictures,93,1
+166,AXsiZ,102,1
+167,Millepensee,126,4
+168,GEMBA,112,22
+169,Nut,93,4
+170,Gathering,90,5
+171,Haoliners Animation League,100,4
+172,Zero-G,64,27
+173,Yaoyorozu,115,13
+174,Egg Firm,124,0
+175,WAO World,79,32
+176,Signal.MD,59,29
+177,C2C,136,0
+178,Issen,78,2
+179,Lesprit,67,8
+180,Pine Jam,85,1
+181,Studio A-CAT,71,23
+182,A-Real,100,3
+183,Children's Playground Entertainment,60,9
+184,Kamikaze Douga,34,16
+185,CloverWorks,56,20
+186,Emon,136,2
+187,Blade,39,20
+188,GEEK TOYS,132,2
+189,Studio Flad,78,18
+190,Geno Studio,88,17
+191,Lapin Track,34,4
+192,DandeLion Animation Studio,134,3
+193,Yokohama Animation Lab,102,14
+194,Acca effe,50,31
+195,Giga Production,137,4
+196,Ascension,117,0
+197,Creators in Pack,141,0
+198,Silver,32,38
+199,Arvo Animation,58,27
+200,Bibury Animation Studios,83,4
+201,Studio PuYUKAI,105,6
+202,Drive,21,27
+203,Visual Flight,116,5
+204,ENGI,119,33
+205,LandQ studios,139,6
+206,Studio Bind,126,10
+207,Anima&Co.,25,2
+208,HOTZIPANG,102,38
+209,Ez?la,84,2
+210,Maho Film,99,0

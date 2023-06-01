@@ -2,8 +2,13 @@
 
 > 안녕하세요, Heeju의 포트폴리오 페이지에 오신 것을 환영합니다!
 
+* Javascript/mudgame
+> 팀원 3명과 함께 수업시간에 개발한 mudgame입니다. 
+>>mudgame : https://github.com/Van0614/mudgame.git
+
 * React/SASM
-> SDP Tech 팀에서 개발한 Front End 개발 코드 링크는 아래와 같습니다. 해당 부분에서 제가 개발한 부분은 React/SASM 폴더 안에 저장해두었습니다.
+> SDP Tech 팀에서 개발한 Front End 개발 코드 링크는 아래와 같습니다. 해당 부분에서 제가 개발한 부분은 sasm repository입니다.
+>>sasm : https://github.com/Van0614/sasm.git
 >>SASM_FE : https://github.com/Van0614/SASM_FE.git
 
 * SQL/DataManagement

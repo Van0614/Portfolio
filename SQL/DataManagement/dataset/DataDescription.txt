@@ -1,0 +1,102 @@
+데이터관리와 분석 2023-1 Dataset
+IMLAB 성민재
+
+* 데이터
+
+주어진 데이터는 사이트 A의 데이터입니다.
+(데이터에 오류가 존재할 수 있으니, 발견 시 즉시 alswo5131@snu.ac.kr로 메일 보내주시기 바랍니다.)
+
+* 데이터 형식
+
+첫 줄은 데이터 attribute 정보, 그 이후는 모두 데이터입니다.
+모든 줄은 comma(,)로 나뉘어진 csv 형태의 파일입니다.
+
+* 데이터 파일
+ 
+user.csv: 사용자 정보
+anime.csv: 애니메이션 정보
+producer: 프로듀서 정보
+director: 프로듀서에 소속된 디렉터 정보
+genre: 장르 정보
+licensor: 라이센서 정보
+mail: 사용자가 프로듀서에게 보낸 메일 정보
+studio: 스튜디오 정보
+anime_genre: 애니메이션이 속한 장르 정보
+anime_licensor: 애니메이션의 라이센서 정보
+anime_producer: 애니메이션의 프로듀서 정보
+anime_user_rating: 사용자가 애니메이션에 남긴 레이팅 정보
+anime_user_status: 사용자가 애니메이션에 남긴 시청 상태 정보
+license_sharing: 라이센서 간의 라이센스 공유 정보
+
+* 데이터 정보
+
+- user.csv
+id: 사용자 고유번호
+Name: 사용자 이름
+
+- anime.csv
+id: 애니메이션 고유번호
+Name: 애니메이션 이름
+Aired: 애니메이션의 방영 기간
+Premiered: 애니메이션이 첫 방영된 연도와 계절
+Source: 애니메이션의 원작
+studio_id: 애니메이션을 제작한 스튜디오 고유번호
+
+- producer.csv
+id: 프로듀서 고유번호
+Name: 프로듀서 이름
+
+- director.csv
+producer_id: 디렉터가 소속된 프로듀서 고유번호
+director: 디렉터의 이름, 하나의 프로듀서에 소속된 디렉터들의 이름은 서로 다름
+age: 디렉터의 나이
+sex: 디렉터의 성별
+
+- genre.csv
+id: 장르 고유번호
+Name: 장르 이름
+
+- licensor.csv
+id: 라이센서 고유번호
+Name: 라이센서 이름
+Type: 라이센서의 목적에 따른 분류
+
+- mail.csv
+id: 메일 고유번호
+user_id: 메일 발신 사용자 고유번호
+producer_id: 메일 수신 프로듀서 고유번호
+body: 메일의 내용
+
+- studio.csv
+id: 스튜디오 고유번호
+Name: 스튜디오 이름
+NoM: 스튜디오 소속 인원수
+genre_id: 스튜디오에서 주력하는 장르 고유번호
+
+- anime_genre.csv
+anime_id: 애니메이션 고유번호
+genre_id: 장르 고유번호
+
+- anime_licensor.csv
+anime_id: 애니메이션 고유번호
+licensor_id: 라이센서 고유번호
+
+- anime_producer.csv
+anime_id: 애니메이션 고유번호
+producer_id: 프로듀서 고유번호
+
+- anime_user_rating.csv
+user_id: 사용자 고유번호
+anime_id: 애니메이션 고유번호
+rating: 사용자가 애니메이션에 부여한 레이팅(1~10의 정수)
+
+- anime_user_status.csv
+user_id: 사용자 고유번호
+anime_id: 애니메이션 고유번호
+watching_status: 사용자의 애니메이션 시청 상태(1~6의 정수, 시청 상태 6은 시청 예정인 상태로 아직 사용자가 애니메이션을 시청하지 않은 상태이다.)
+watched_episodes: 사용자의 애니메이션 시청 회차수
+
+- license_sharing.csv
+sharing: 라이센스를 공유해주는 라이센서 고유번호
+shared: 라이센스를 공유받는 라이센서 고유번호
+sharing_type: 라이센스 공유의 기간에 따른 분류

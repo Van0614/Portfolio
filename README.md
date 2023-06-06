@@ -1,6 +1,6 @@
-# Heeju's Portfolio
+# Portfolio
 
-> 안녕하세요, Heeju의 포트폴리오 페이지에 오신 것을 환영합니다!
+> 안녕하세요, 1870-000333의 포트폴리오 페이지에 오신 것을 환영합니다!
 
 * Javascript/mudgame
 > 팀원 3명과 함께 수업시간에 개발한 mudgame입니다. 
